@@ -197,6 +197,7 @@ if (root){
 <td>Шуркаев</td>
 <td><a href="#">sdfsdf.ru</a></td>
 <td>Не-а</td>
+<td>16х19</td>
 </tr>
 
 <tr>
@@ -205,6 +206,7 @@ if (root){
 <td>Соуден</td>
 <td><a href="#">sdfsdfsdf.uk</a></td>
 <td>Угу</td>
+<td>16х20</td>
 </tr>
 
 <tr>
@@ -213,6 +215,7 @@ if (root){
 <td>Зельдман</td>
 <td><a href="#">asdqwqdw.com</a></td>
 <td>Угу</td>
+<td>18х20</td>
 </tr>
 
 <tr>
@@ -221,6 +224,7 @@ if (root){
 <td>Будман</td>
 <td><a href="#">23423.net</a></td>
 <td>Не-а</td>
+<td>18х20</td>
 </tr>
 
 <tr>
@@ -229,6 +233,7 @@ if (root){
 <td>Мерфи</td>
 <td><a href="#">g345345.com</a></td>
 <td>Не-а</td>
+<td>18х20</td>
 </tr>
 
 <tr>
@@ -237,6 +242,7 @@ if (root){
 <td>Боган</td>
 <td><a href="#">3454353.com</a></td>
 <td>Не-а</td>
+<td>18х20</td>
 </tr>
 
 <tr>
@@ -245,6 +251,7 @@ if (root){
 <td>Бенджамин</td>
 <td><a href="#">hivelogic.com</a></td>
 <td>Угу</td>
+<td>18х20</td>
 </tr>
 
 </tbody>
